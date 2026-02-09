@@ -1,5 +1,5 @@
 {
-  "name": "@maclaw/openclaw-security",
+  "name": "@isfisf/maclaw-openclaw-security",
   "version": "1.0.0",
   "description": "MaclawPro security monitoring skill for OpenClaw - 52+ macOS security tasks",
   "main": "dist/index.js",
