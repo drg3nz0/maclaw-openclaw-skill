@@ -123,7 +123,7 @@ After publication, you should see:
 Why MaclawPro Security will succeed:
 
 1. **✅ Credibility**
-   - Polytechnique Montréal certification
+   - Polytechnique Montreal certification
    - 500+ verified Google reviews (4.7/5)
    - Established businesses (sequr.ca, informatique-quebec.com)
 
@@ -272,4 +272,4 @@ bash publish.sh
 **Contact:** info@sequr.ca
 **Website:** https://maclawpro.com
 
-*Polytechnique Montréal Certified Cybersecurity Experts* 🇨🇦
+*Polytechnique Montreal Certified Cybersecurity Experts* 🇨🇦

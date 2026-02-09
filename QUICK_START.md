@@ -51,11 +51,11 @@ node -e "const skill = require('./dist/index.js'); skill.cameraStatus().then(con
 git init
 git add .
 git commit -m "Initial release v1.0.0"
-git remote add origin https://github.com/YOUR_USERNAME/maclaw-openclaw-skill.git
+git remote add origin https://github.com/drg3nz0/maclaw-openclaw-skill.git
 git branch -M main
 git push -u origin main
 
-# Verify: Open https://github.com/YOUR_USERNAME/maclaw-openclaw-skill
+# Verify: Open https://github.com/drg3nz0/maclaw-openclaw-skill
 ```
 
 ---
@@ -69,7 +69,7 @@ npm login
 # Publish
 npm publish --access public
 
-# Verify: https://www.npmjs.com/package/@maclaw/openclaw-security
+# Verify: https://www.npmjs.com/package/openclaw-macos-security
 # Should show your package!
 ```
 
@@ -86,12 +86,12 @@ Hi,
 
 Submitting new security skill:
 - Name: MaclawPro Security
-- Package: @maclaw/openclaw-security
+- Package: openclaw-macos-security
 - Category: Security
-- npm: https://www.npmjs.com/package/@maclaw/openclaw-security
-- GitHub: https://github.com/YOUR_USERNAME/maclaw-openclaw-skill
+- npm: https://www.npmjs.com/package/openclaw-macos-security
+- GitHub: https://github.com/drg3nz0/maclaw-openclaw-skill
 
-Created by SEQUR.ca (Polytechnique Montréal certified).
+Created by SEQUR.ca (certified).
 
 Thanks!
 ```
@@ -114,9 +114,9 @@ Find their repo, fork it, add your skill to skills.json, PR.
 
 52+ security tasks: camera, mic, firewall, VPN, WiFi, ports & more
 
-Created by Polytechnique Montréal certified experts 🇨🇦
+Created by certified experts 🇨🇦
 
-Install: npm i @maclaw/openclaw-security
+Install: npm i openclaw-macos-security
 
 Try: /camera-status, /firewall-status
 
@@ -175,8 +175,8 @@ After 3 hours, you should have:
 ## 🎯 **Next 48 Hours**
 
 Monitor:
-- npm downloads: https://www.npmjs.com/package/@maclaw/openclaw-security
-- GitHub stars: https://github.com/YOUR_USERNAME/maclaw-openclaw-skill
+- npm downloads: https://www.npmjs.com/package/openclaw-macos-security
+- GitHub stars: https://github.com/drg3nz0/maclaw-openclaw-skill
 - Discord reactions
 - Email replies from clients
 - Traffic to maclawpro.com from OpenClaw

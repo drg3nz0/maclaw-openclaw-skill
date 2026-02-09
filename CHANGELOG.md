@@ -38,7 +38,7 @@ First public release of MaclawPro Security for OpenClaw.
 - MIT License
 
 **Branding:**
-- Created by SEQUR.ca (Polytechnique Montréal certified)
+- Created by SEQUR.ca (certified)
 - Links to maclawpro.com and sequr.ca
 - Professional documentation
 
@@ -77,7 +77,7 @@ First public release of MaclawPro Security for OpenClaw.
 ## Contributing
 
 Found a bug? Have a feature request?
-- 🐛 Report issues: https://github.com/YOUR_USERNAME/maclaw-openclaw-skill/issues
+- 🐛 Report issues: https://github.com/drg3nz0/maclaw-openclaw-skill/issues
 - 💡 Suggest features: Open a GitHub issue
 - 📧 Contact: info@sequr.ca
 

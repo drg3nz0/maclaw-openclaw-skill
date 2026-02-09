@@ -47,15 +47,15 @@ git add .
 # First commit
 git commit -m "Initial release - MaclawPro Security skill v1.0.0"
 
-# Add remote (replace YOUR_USERNAME with your GitHub username)
-git remote add origin https://github.com/YOUR_USERNAME/maclaw-openclaw-skill.git
+# Add remote (replace drg3nz0 with your GitHub username)
+git remote add origin https://github.com/drg3nz0/maclaw-openclaw-skill.git
 
 # Push to GitHub
 git push -u origin main
 ```
 
 **Expected result:**
-✅ Repo visible at: `https://github.com/YOUR_USERNAME/maclaw-openclaw-skill`
+✅ Repo visible at: `https://github.com/drg3nz0/maclaw-openclaw-skill`
 
 ---
 
@@ -76,7 +76,7 @@ npm login
 
 ```bash
 # Check package name is available
-npm view @maclaw/openclaw-security
+npm view openclaw-macos-security
 
 # If returns 404 = good (name available)
 # If shows package = choose different name
@@ -99,11 +99,11 @@ npm pack
 npm publish --access public
 
 # Success message:
-# + @maclaw/openclaw-security@1.0.0
+# + openclaw-macos-security@1.0.0
 ```
 
 **Expected result:**
-✅ Package visible at: `https://www.npmjs.com/package/@maclaw/openclaw-security`
+✅ Package visible at: `https://www.npmjs.com/package/openclaw-macos-security`
 
 ---
 
@@ -113,17 +113,17 @@ npm publish --access public
 
 ```markdown
 Skill Name: MaclawPro Security
-Package: @maclaw/openclaw-security
+Package: openclaw-macos-security
 Category: Security
 Icon: 🛡️
 Short Description: Professional macOS security monitoring - 52+ tasks
 Long Description:
-  Comprehensive macOS security toolkit by SEQUR.ca (Polytechnique Montréal certified).
+  Comprehensive macOS security toolkit by SEQUR.ca (certified).
   Monitor camera, microphone, firewall, VPN, WiFi, and more.
   Created by cybersecurity experts with 500+ client reviews.
 
-GitHub: https://github.com/YOUR_USERNAME/maclaw-openclaw-skill
-npm: https://www.npmjs.com/package/@maclaw/openclaw-security
+GitHub: https://github.com/drg3nz0/maclaw-openclaw-skill
+npm: https://www.npmjs.com/package/openclaw-macos-security
 Website: https://maclawpro.com
 Support: info@sequr.ca
 
@@ -160,13 +160,13 @@ Hi OpenClaw team,
 I'd like to submit a new security skill for listing on openclawsearch.com:
 
 **MaclawPro Security**
-- Package: @maclaw/openclaw-security
+- Package: openclaw-macos-security
 - Category: Security
-- npm: https://www.npmjs.com/package/@maclaw/openclaw-security
-- GitHub: https://github.com/YOUR_USERNAME/maclaw-openclaw-skill
+- npm: https://www.npmjs.com/package/openclaw-macos-security
+- GitHub: https://github.com/drg3nz0/maclaw-openclaw-skill
 
 MaclawPro brings professional macOS security monitoring to OpenClaw,
-created by SEQUR.ca (Polytechnique Montréal certified cybersecurity experts).
+created by SEQUR.ca (certified cybersecurity experts).
 
 Features:
 - 52+ security tasks (camera, mic, firewall, VPN, WiFi, etc.)
@@ -211,20 +211,20 @@ Professional macOS security monitoring is now available for OpenClaw!
 • And much more!
 
 **Why trust it?**
-Created by SEQUR.ca - Polytechnique Montréal certified cybersecurity experts with 500+ verified client reviews.
+Created by SEQUR.ca - certified cybersecurity experts with 500+ verified client reviews.
 
 **Installation:**
 ```
-npm install @maclaw/openclaw-security
+npm install openclaw-macos-security
 ```
 or
 ```
-openclaw skill install @maclaw/openclaw-security
+openclaw skill install openclaw-macos-security
 ```
 
 **Links:**
-📦 npm: https://www.npmjs.com/package/@maclaw/openclaw-security
-💻 GitHub: https://github.com/YOUR_USERNAME/maclaw-openclaw-skill
+📦 npm: https://www.npmjs.com/package/openclaw-macos-security
+💻 GitHub: https://github.com/drg3nz0/maclaw-openclaw-skill
 🌐 Website: https://maclawpro.com
 
 **Try it now:**
@@ -249,9 +249,9 @@ Feedback welcome! 🙌
 
 Monitor your camera, firewall, VPN, WiFi & more from anywhere.
 
-Created by Polytechnique Montréal certified experts 🇨🇦
+Created by certified experts 🇨🇦
 
-npm i @maclaw/openclaw-security
+npm i openclaw-macos-security
 
 #OpenClaw #macOS #CyberSecurity
 ```
@@ -260,7 +260,7 @@ npm i @maclaw/openclaw-security
 ```
 Excited to announce MaclawPro Security for OpenClaw!
 
-As Polytechnique Montréal certified cybersecurity professionals, we've built a comprehensive macOS security monitoring skill for the OpenClaw ecosystem.
+As certified cybersecurity professionals, we've built a comprehensive macOS security monitoring skill for the OpenClaw ecosystem.
 
 Features:
 ✓ Real-time camera/microphone tracking
@@ -270,7 +270,7 @@ Features:
 
 Perfect for remote workers, privacy-conscious users, and IT professionals.
 
-Try it: npm install @maclaw/openclaw-security
+Try it: npm install openclaw-macos-security
 
 #CyberSecurity #macOS #OpenSource #Privacy
 ```
@@ -284,11 +284,11 @@ Title: "MaclawPro Security: Professional macOS Monitoring for OpenClaw"
 Intro:
 We're excited to announce MaclawPro Security, our new OpenClaw skill that brings professional-grade macOS security monitoring to the OpenClaw ecosystem.
 
-As Polytechnique Montréal certified cybersecurity experts with 500+ satisfied clients, we've distilled our expertise into 52+ automated security tasks.
+As certified cybersecurity experts with 500+ satisfied clients, we've distilled our expertise into 52+ automated security tasks.
 
 [Rest of blog post explaining features, use cases, how to install]
 
-CTA: Try it today - npm install @maclaw/openclaw-security
+CTA: Try it today - npm install openclaw-macos-security
 ```
 
 ### **5.3 Cross-Promotion**
@@ -311,12 +311,12 @@ Nous avons lancé MaclawPro Security, un outil gratuit de monitoring
 de sécurité pour votre Mac, disponible via OpenClaw.
 
 Si vous utilisez déjà OpenClaw, installez simplement:
-npm install @maclaw/openclaw-security
+npm install openclaw-macos-security
 
 Si vous ne connaissez pas OpenClaw, visitez:
 https://maclawpro.com/openclaw
 
-Créé par notre équipe certifiée Polytechnique Montréal.
+Créé par notre équipe certifiée Polytechnique Montreal.
 
 Questions? Répondez à cet email!
 
@@ -333,11 +333,11 @@ SEQUR.ca
 
 ```bash
 # Track npm downloads
-https://www.npmjs.com/package/@maclaw/openclaw-security
+https://www.npmjs.com/package/openclaw-macos-security
 # Check weekly downloads
 
 # Track GitHub stars
-https://github.com/YOUR_USERNAME/maclaw-openclaw-skill
+https://github.com/drg3nz0/maclaw-openclaw-skill
 # Monitor stars, forks, issues
 
 # Track website traffic
@@ -407,7 +407,7 @@ npm publish --access public
 # Error: Remote already exists
 # Solution: Remove and re-add
 git remote remove origin
-git remote add origin https://github.com/YOUR_USERNAME/maclaw-openclaw-skill.git
+git remote add origin https://github.com/drg3nz0/maclaw-openclaw-skill.git
 ```
 
 ### **OpenClawSearch submission not accepted**
