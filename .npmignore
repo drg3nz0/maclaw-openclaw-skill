@@ -1,0 +1,21 @@
+# Source files (we only publish dist/)
+src/
+tsconfig.json
+
+# Development files
+*.test.ts
+*.spec.ts
+.vscode/
+.idea/
+
+# Documentation (included in README.md)
+docs/
+examples/
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+
+# Misc
+*.log
+.DS_Store
