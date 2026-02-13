@@ -1,6 +1,6 @@
 {
   "name": "openclaw-macos-security",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "MaclawPro security monitoring skill for OpenClaw - 52+ macOS security tasks",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
